@@ -1,0 +1,12 @@
+{
+  "name": "@elemental/link",
+  "version": "0.0.1",
+  "description": "The elemental <Link /> component.",
+  "main": "src/Link.js",
+  "author": "Rubens Mariuzzo <rubens@mariuzzo.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
