@@ -4,7 +4,7 @@
 
 ## Components
 
- - [Link](package/link) - The anchor element.
+ - [Link](packages/link) - The anchor element.
 
 ---
 
