@@ -10,13 +10,13 @@ const stories = storiesOf('Link', module)
 
 stories.addDecorator(withKnobs)
 
-stories.add('with text', () => (
+stories.add('default', () => (
   <Link
     href={text('href', '#')}
     preventDefault={boolean('preventDefault', true)}
     target={text('target', '_self')}
     onClick={action('clicked')}
   >
-    Link
+    {text('children', 'Link')}
   </Link>
 ))
