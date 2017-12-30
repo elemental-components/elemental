@@ -1,6 +1,6 @@
 {
   "name": "@elemental/link",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The elemental <Link /> component.",
   "main": "src/Link.js",
   "author": "Rubens Mariuzzo <rubens@mariuzzo.com>",

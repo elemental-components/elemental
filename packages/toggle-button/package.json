@@ -1,6 +1,6 @@
 {
   "name": "@elemental/toggle-button",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The elemental <ToggleButton /> component.",
   "main": "src/ToggleButton.js",
   "repository": "https://github.com/elemental-components/elemental/tree/master/packages/toggle-button",
