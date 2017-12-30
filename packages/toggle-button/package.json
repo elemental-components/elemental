@@ -1,0 +1,13 @@
+{
+  "name": "@elemental/toggle-button",
+  "version": "0.0.1",
+  "description": "The elemental <ToggleButton /> component.",
+  "main": "src/ToggleButton.js",
+  "repository": "https://github.com/elemental-components/elemental/tree/master/packages/toggle-button",
+  "author": "Rubens Mariuzzo <rubens@mariuzzo.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
