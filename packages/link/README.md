@@ -1,4 +1,10 @@
+<div align=center>
+<br><br><br>
+
 # `<Link />`
+
+<br><br><br>
+</div>
 
 The `<Link />` component provides an anchor element (`<a />`) with the following props.
 
