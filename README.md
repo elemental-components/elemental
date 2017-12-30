@@ -4,7 +4,8 @@
 
 ## Components
 
- - [Link](packages/link) - The anchor element.
+ - [Link](packages/link) - The Link element.
+ - [ToggleButton](packages/toggle-button) - The Toggle Button element.
 
 ---
 
